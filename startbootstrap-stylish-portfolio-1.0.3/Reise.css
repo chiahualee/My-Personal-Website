@@ -1,0 +1,50 @@
+body {
+    background-image: url("img/blu_stripes.png");
+}
+
+#banner {
+    border-top: black solid;
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgba(255, 255, 255, 1);
+    height: 130px;
+}
+
+#quirk {
+    color: #5CADFF;
+}
+
+#leftpart {
+    width: 60%;
+    margin-top: 30px;
+    border-top: black solid;
+    background-color: white;
+    margin-right: 15px
+}
+
+#rightpart {
+    width: 36%;
+    float: right;
+    margin-top: 30px;
+    margin-left: 15px;
+    border-top: black solid;
+    background-color: white;
+}
+
+#under {
+    border-bottom: 1px dotted #000;
+    text-decoration: none;
+}
+
+#travel1 {
+    padding-top: 20px
+}
+
+#social {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#bottom {
+    padding-bottom: 30px;
+}
